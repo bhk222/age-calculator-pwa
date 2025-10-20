@@ -1,0 +1,987 @@
+[
+  {
+    "reference": "SO 01",
+    "nom": "Semelle orthopédique (pointure < 36)",
+    "categorie": "Podo-orthèses",
+    "description": "Les semelles orthopédiques sont des dispositifs médicaux fabriqués sur mesure par un podologue ou un podo-orthésiste. Elles soulagent les douleurs causées par des déformations du pied grâce à une correction spécifique à chaque individu. Une semelle est constituée de 04 couches : Plaque de synderme, Liège naturel, Mousse, Basane.",
+    "indications": [
+      "Pieds plats enfant 3+ ans",
+      "Pieds plats isolés/varus/valgus",
+      "Épiphysite plantaire",
+      "Métatarsalgies",
+      "Hyperkératose",
+      "Inégalité membre <2cm",
+      "Pied diabétique",
+      "Polyarthrite",
+      "Pieds creux décompensés"
+    ],
+    "type": "Semelle",
+    "remboursement": "100%",
+    "references_composees": [
+      "SO 01"
+    ]
+  },
+  {
+    "reference": "SO 02",
+    "nom": "Semelle orthopédique (pointure ≥ 36)",
+    "categorie": "Podo-orthèses",
+    "description": "Les semelles orthopédiques sont des dispositifs médicaux fabriqués sur mesure par un podologue ou un podo-orthésiste. Elles soulagent les douleurs causées par des déformations du pied grâce à une correction spécifique à chaque individu. Une semelle est constituée de 04 couches : Plaque de synderme, Liège naturel, Mousse, Basane.",
+    "indications": [
+      "Pieds plats enfant 3+ ans",
+      "Pieds plats isolés/varus/valgus",
+      "Épiphysite plantaire",
+      "Métatarsalgies",
+      "Hyperkératose",
+      "Inégalité membre <2cm",
+      "Pied diabétique",
+      "Polyarthrite",
+      "Pieds creux décompensés"
+    ],
+    "type": "Semelle",
+    "remboursement": "100%",
+    "references_composees": [
+      "SO 02"
+    ]
+  },
+  {
+    "reference": "701",
+    "nom": "Chaussure tige montante/basse Box",
+    "categorie": "Podo-orthèses - Chaussures",
+    "description": "Peausserie forte, contrefort rigide",
+    "indications": [
+      "Pieds plats",
+      "PBVE",
+      "Steppage"
+    ],
+    "type": "Chaussure",
+    "remboursement": "100%",
+    "references_composees": [
+      "701"
+    ]
+  },
+  {
+    "reference": "702",
+    "nom": "Chaussure tige montante/basse Chevreau",
+    "categorie": "Podo-orthèses - Chaussures",
+    "description": "Peausserie fine",
+    "indications": [
+      "Pied diabétique",
+      "Polyarthrite",
+      "Lymphœdème"
+    ],
+    "type": "Chaussure",
+    "remboursement": "100%",
+    "references_composees": [
+      "702"
+    ]
+  },
+  {
+    "reference": "703",
+    "nom": "Chaussure compensation Box",
+    "categorie": "Podo-orthèses - Chaussures",
+    "description": "Compensation équinisme",
+    "indications": [
+      "Équinisme controlatéral"
+    ],
+    "type": "Chaussure",
+    "remboursement": "100%",
+    "references_composees": [
+      "703"
+    ]
+  },
+  {
+    "reference": "704",
+    "nom": "Chaussure compensation Chevreau",
+    "categorie": "Podo-orthèses - Chaussures",
+    "description": "Compensation pied fragilisé",
+    "indications": [
+      "Compensation fragilisé"
+    ],
+    "type": "Chaussure",
+    "remboursement": "100%",
+    "references_composees": [
+      "704"
+    ]
+  },
+  {
+    "reference": "705",
+    "nom": "Chaussure étrier Box",
+    "categorie": "Podo-orthèses - Chaussures",
+    "description": "Avec fixation étrier",
+    "indications": [
+      "Nécessite étrier"
+    ],
+    "type": "Chaussure",
+    "remboursement": "100%",
+    "references_composees": [
+      "705"
+    ]
+  },
+  {
+    "reference": "706",
+    "nom": "Chaussure étrier Chevreau",
+    "categorie": "Podo-orthèses - Chaussures",
+    "description": "Étrier pied fragilisé",
+    "indications": [
+      "Étrier fragilisé"
+    ],
+    "type": "Chaussure",
+    "remboursement": "100%",
+    "references_composees": [
+      "706"
+    ]
+  },
+  {
+    "reference": "709",
+    "nom": "Chaussure complément",
+    "categorie": "Podo-orthèses - Chaussures",
+    "description": "Membre controlatéral",
+    "indications": [
+      "Égalisation membres"
+    ],
+    "type": "Chaussure",
+    "remboursement": "100%",
+    "references_composees": [
+      "709"
+    ]
+  },
+  {
+    "reference": "721",
+    "nom": "Chaussure Chopart <16cm",
+    "categorie": "Podo-orthèses - Chaussures",
+    "description": "Amputation Chopart",
+    "indications": [
+      "Amputation Chopart"
+    ],
+    "type": "Chaussure",
+    "remboursement": "100%",
+    "references_composees": [
+      "721"
+    ]
+  },
+  {
+    "reference": "722",
+    "nom": "Chaussure Chopart ≤16cm",
+    "categorie": "Podo-orthèses - Chaussures",
+    "description": "Amputation Chopart",
+    "indications": [
+      "Amputation Chopart"
+    ],
+    "type": "Chaussure",
+    "remboursement": "100%",
+    "references_composees": [
+      "722"
+    ]
+  },
+  {
+    "reference": "CHAU.B.OUV",
+    "nom": "Chaussure bout ouvert",
+    "categorie": "Podo-orthèses - Chaussures",
+    "description": "Pour déformations orteils",
+    "indications": [
+      "Déformations orteils",
+      "Pansements"
+    ],
+    "type": "Chaussure",
+    "remboursement": "100%",
+    "references_composees": [
+      "CHAU.B.OUV"
+    ]
+  },
+  {
+    "reference": "01",
+    "nom": "Adjonction 01",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "01"
+    ]
+  },
+  {
+    "reference": "02",
+    "nom": "Adjonction 02",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "02"
+    ]
+  },
+  {
+    "reference": "AD11",
+    "nom": "Adjonction AD11",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AD11"
+    ]
+  },
+  {
+    "reference": "AD12",
+    "nom": "Adjonction AD12",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AD12"
+    ]
+  },
+  {
+    "reference": "AD13",
+    "nom": "Adjonction AD13",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AD13"
+    ]
+  },
+  {
+    "reference": "AD14",
+    "nom": "Adjonction AD14",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AD14"
+    ]
+  },
+  {
+    "reference": "AD15",
+    "nom": "Adjonction AD15",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AD15"
+    ]
+  },
+  {
+    "reference": "AD16",
+    "nom": "Adjonction AD16",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AD16"
+    ]
+  },
+  {
+    "reference": "AP21",
+    "nom": "Adjonction AP21",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AP21"
+    ]
+  },
+  {
+    "reference": "AP22",
+    "nom": "Adjonction AP22",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AP22"
+    ]
+  },
+  {
+    "reference": "AP24",
+    "nom": "Adjonction AP24",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AP24"
+    ]
+  },
+  {
+    "reference": "AP25",
+    "nom": "Adjonction AP25",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AP25"
+    ]
+  },
+  {
+    "reference": "AR31",
+    "nom": "Adjonction AR31",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AR31"
+    ]
+  },
+  {
+    "reference": "AR32",
+    "nom": "Adjonction AR32",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AR32"
+    ]
+  },
+  {
+    "reference": "AR33",
+    "nom": "Adjonction AR33",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AR33"
+    ]
+  },
+  {
+    "reference": "AS45",
+    "nom": "Adjonction AS45",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AS45"
+    ]
+  },
+  {
+    "reference": "AS46",
+    "nom": "Adjonction AS46",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AS46"
+    ]
+  },
+  {
+    "reference": "AS47",
+    "nom": "Adjonction AS47",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AS47"
+    ]
+  },
+  {
+    "reference": "AS49",
+    "nom": "Adjonction AS49",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AS49"
+    ]
+  },
+  {
+    "reference": "AS50",
+    "nom": "Adjonction AS50",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AS50"
+    ]
+  },
+  {
+    "reference": "AS51",
+    "nom": "Adjonction AS51",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AS51"
+    ]
+  },
+  {
+    "reference": "AS52",
+    "nom": "Adjonction AS52",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AS52"
+    ]
+  },
+  {
+    "reference": "AS54",
+    "nom": "Adjonction AS54",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "AS54"
+    ]
+  },
+  {
+    "reference": "MO91",
+    "nom": "Adjonction MO91",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "MO91"
+    ]
+  },
+  {
+    "reference": "MO92",
+    "nom": "Adjonction MO92",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "MO92"
+    ]
+  },
+  {
+    "reference": "172",
+    "nom": "Adjonction 172",
+    "categorie": "Podo-orthèses - Adjonctions",
+    "description": "Adjonction pour chaussure orthopédique",
+    "indications": [
+      "Selon prescription"
+    ],
+    "type": "Adjonction",
+    "remboursement": "100%",
+    "references_composees": [
+      "172"
+    ]
+  },
+  {
+    "reference": "TR 12 S 25",
+    "nom": "Casque protection type 3",
+    "categorie": "Orthèses crâne et cou",
+    "description": "Casque résine polyester stratifié",
+    "indications": [
+      "Trépanation",
+      "Ostéotomie crâne"
+    ],
+    "type": "Orthèse",
+    "remboursement": "100%",
+    "references_composees": [
+      "TR 12 S 25"
+    ]
+  },
+  {
+    "reference": "C114",
+    "nom": "Collier cervical souple",
+    "categorie": "Orthèses crâne et cou",
+    "description": "Mousse appui mentonnier/occipital",
+    "indications": [
+      "Cervicarthrose",
+      "Torticolis"
+    ],
+    "type": "Orthèse",
+    "remboursement": "100%",
+    "references_composees": [
+      "C114"
+    ]
+  },
+  {
+    "reference": "C160",
+    "nom": "Collier cervical rigide",
+    "categorie": "Orthèses crâne et cou",
+    "description": "Polypropylène rigide",
+    "indications": [
+      "Cervicarthrose étagée",
+      "Hernies discales"
+    ],
+    "type": "Orthèse",
+    "remboursement": "100%",
+    "references_composees": [
+      "C160"
+    ]
+  },
+  {
+    "reference": "TR 23 N 35",
+    "nom": "Minerve courte",
+    "categorie": "Orthèses crâne et cou",
+    "description": "Polyéthylène mentonnier/thoracique",
+    "indications": [
+      "Fractures cervicales",
+      "Hernies hyperalgiques"
+    ],
+    "type": "Orthèse",
+    "remboursement": "100%",
+    "references_composees": [
+      "TR 23 N 35"
+    ]
+  },
+  {
+    "reference": "TR 25 N 36",
+    "nom": "Minerve cervico-dorsale",
+    "categorie": "Orthèses crâne et cou",
+    "description": "Immobilisation cervico-dorsale",
+    "indications": [
+      "Lésions cervico-dorsales",
+      "Torticolis congénital"
+    ],
+    "type": "Orthèse",
+    "remboursement": "100%",
+    "references_composees": [
+      "TR 25 N 36"
+    ]
+  },
+  {
+    "reference": "TR 29 N 36",
+    "nom": "Corset Milwaukee",
+    "categorie": "Orthèses du tronc - Corsets",
+    "description": "Correction scolioses avec collier occipito-mentonnier",
+    "indications": [
+      "Scoliose cervico-dorsale",
+      "Scoliose Cobb <50°"
+    ],
+    "type": "Corset",
+    "remboursement": "100%",
+    "references_composees": [
+      "TR 29 N 36"
+    ]
+  },
+  {
+    "reference": "TR 49 K 54",
+    "nom": "Corset Lyonnais",
+    "categorie": "Orthèses du tronc - Corsets",
+    "description": "Maintien post-plâtre Pléxidur",
+    "indications": [
+      "Scolioses 30-50° post-pubertaires"
+    ],
+    "type": "Corset",
+    "remboursement": "100%",
+    "references_composees": [
+      "TR 49 K 54"
+    ]
+  },
+  {
+    "reference": "TR 49 N 50",
+    "nom": "Corset Boston",
+    "categorie": "Orthèses du tronc - Corsets",
+    "description": "Correction lombaire mono-valve",
+    "indications": [
+      "Scoliose lombaire souple",
+      "Hyperlordoses"
+    ],
+    "type": "Corset",
+    "remboursement": "100%",
+    "references_composees": [
+      "TR 49 N 50"
+    ]
+  },
+  {
+    "reference": "TR 39 N 51",
+    "nom": "Corset Chêneau/CTM",
+    "categorie": "Orthèses du tronc - Corsets",
+    "description": "Correction 3D scoliose",
+    "indications": [
+      "Scoliose dorsale/dorsolombaire Cobb <50°"
+    ],
+    "type": "Corset",
+    "remboursement": "100%",
+    "references_composees": [
+      "TR 39 N 51"
+    ]
+  },
+  {
+    "reference": "TR 39 K 50",
+    "nom": "Corset anti-cyphose",
+    "categorie": "Orthèses du tronc - Corsets",
+    "description": "Correction cyphose Pléxidur",
+    "indications": [
+      "Hyper cyphose",
+      "Maladie Scheuermann"
+    ],
+    "type": "Corset",
+    "remboursement": "100%",
+    "references_composees": [
+      "TR 39 K 50"
+    ]
+  },
+  {
+    "reference": "TR 43 N 10",
+    "nom": "Corset siège",
+    "categorie": "Orthèses du tronc - Corsets",
+    "description": "Position assise IMC",
+    "indications": [
+      "IMC sans position assise",
+      "Spina-bifida",
+      "Hydrocéphalie"
+    ],
+    "type": "Corset",
+    "remboursement": "100%",
+    "references_composees": [
+      "TR 43 N 10"
+    ]
+  },
+  {
+    "reference": "C2P/SR",
+    "nom": "Corset 2 points",
+    "categorie": "Orthèses du tronc - Corsets",
+    "description": "Thorax carène/brechet",
+    "indications": [
+      "Malformations thorax"
+    ],
+    "type": "Corset",
+    "remboursement": "100%",
+    "references_composees": [
+      "C2P/SR"
+    ]
+  },
+  {
+    "reference": "OI 39 D01",
+    "nom": "GAM tourillon 2-6cm sans cuir",
+    "categorie": "Orthèses membres - Marche",
+    "description": "Grand appareil marche",
+    "indications": [
+      "PAA",
+      "Spina bifida",
+      "Hémiplégie"
+    ],
+    "type": "Orthèse marche",
+    "remboursement": "100%",
+    "references_composees": [
+      "OI 39 D01"
+    ]
+  },
+  {
+    "reference": "OI 39 D02",
+    "nom": "GAM tourillon 2-6cm cuir 1 segment",
+    "categorie": "Orthèses membres - Marche",
+    "description": "GAM avec cuir moulé",
+    "indications": [
+      "PAA avec amyotrophie"
+    ],
+    "type": "Orthèse marche",
+    "remboursement": "100%",
+    "references_composees": [
+      "OI 39 D02"
+    ]
+  },
+  {
+    "reference": "OI 39 D03",
+    "nom": "GAM tourillon 2-6cm cuir 2 segments",
+    "categorie": "Orthèses membres - Marche",
+    "description": "GAM cuir 2 segments",
+    "indications": [
+      "PAA amyotrophie complète"
+    ],
+    "type": "Orthèse marche",
+    "remboursement": "100%",
+    "references_composees": [
+      "OI 39 D03"
+    ]
+  },
+  {
+    "reference": "OI 39 N50",
+    "nom": "Attelle marche cruro-pédieuse",
+    "categorie": "Orthèses membres - Marche",
+    "description": "Polyéthylène articulé genou",
+    "indications": [
+      "PAA",
+      "Hémiplégie",
+      "IMC"
+    ],
+    "type": "Orthèse marche",
+    "remboursement": "100%",
+    "references_composees": [
+      "OI 39 N50"
+    ]
+  },
+  {
+    "reference": "OI 59 N50",
+    "nom": "Attelle jambo-pédieuse posture",
+    "categorie": "Orthèses membres - Marche",
+    "description": "Polyéthylène pied/jambe",
+    "indications": [
+      "Équins réductibles",
+      "IMC"
+    ],
+    "type": "Orthèse marche",
+    "remboursement": "100%",
+    "references_composees": [
+      "OI 59 N50"
+    ]
+  },
+  {
+    "reference": "OI 59 N66",
+    "nom": "Attelle jambo-pédieuse articulée",
+    "categorie": "Orthèses membres - Marche",
+    "description": "Thermoplastique articulé cheville",
+    "indications": [
+      "Maladie Little",
+      "Équinisme"
+    ],
+    "type": "Orthèse marche",
+    "remboursement": "100%",
+    "references_composees": [
+      "OI 59 N66"
+    ]
+  },
+  {
+    "reference": "OI 59 C91",
+    "nom": "PAM Petit appareil marche",
+    "categorie": "Orthèses membres - Marche",
+    "description": "Montants acier chaussure tourillon",
+    "indications": [
+      "PBVE invétéré",
+      "Pieds neurologiques"
+    ],
+    "type": "Orthèse marche",
+    "remboursement": "100%",
+    "references_composees": [
+      "OI 59 C91"
+    ]
+  },
+  {
+    "reference": "OI 59 M50",
+    "nom": "Orthèse Heidelberg sur mesure",
+    "categorie": "Orthèses membres - Marche",
+    "description": "Thermoplastique moulé",
+    "indications": [
+      "Paralysie releveurs",
+      "Varus arrière-pied"
+    ],
+    "type": "Orthèse marche",
+    "remboursement": "100%",
+    "references_composees": [
+      "OI 59 M50"
+    ]
+  },
+  {
+    "reference": "PI 01 ZS 63 G",
+    "nom": "Prothèse désarticulation hanche",
+    "categorie": "Prothèses membres inférieurs",
+    "description": "Prothèse canadienne complète",
+    "indications": [
+      "Hémipelvectomie",
+      "Désarticulation hanche"
+    ],
+    "type": "Prothèse",
+    "remboursement": "100%",
+    "references_composees": [
+      "PI 01 ZS 63 G"
+    ]
+  },
+  {
+    "reference": "PI 03",
+    "nom": "Prothèse fémorale définitive",
+    "categorie": "Prothèses membres inférieurs",
+    "description": "Emboîture résine + genou + pied",
+    "indications": [
+      "Amputation fémorale",
+      "Agénésie fémorale"
+    ],
+    "type": "Prothèse",
+    "remboursement": "100%",
+    "references_composees": [
+      "PI 03"
+    ]
+  },
+  {
+    "reference": "PI 06",
+    "nom": "Prothèse tibiale définitive",
+    "categorie": "Prothèses membres inférieurs",
+    "description": "Manchon + emboîture + pied",
+    "indications": [
+      "Amputation tibiale",
+      "Agénésie tibiale"
+    ],
+    "type": "Prothèse",
+    "remboursement": "100%",
+    "references_composees": [
+      "PI 06"
+    ]
+  },
+  {
+    "reference": "PI 07 SS 22 A",
+    "nom": "Prothèse Symes désarticulation cheville",
+    "categorie": "Prothèses membres inférieurs",
+    "description": "Emboîture + pied prothétique",
+    "indications": [
+      "Désarticulation tibio-tarsienne"
+    ],
+    "type": "Prothèse",
+    "remboursement": "100%",
+    "references_composees": [
+      "PI 07 SS 22 A"
+    ]
+  },
+  {
+    "reference": "PI 28 SS 14A",
+    "nom": "Ortho-prothèse enfant patin",
+    "categorie": "Prothèses membres inférieurs",
+    "description": "Orthèse + prothèse acquisition marche",
+    "indications": [
+      "Agénésie congénitale",
+      "Raccourcissement >10cm"
+    ],
+    "type": "Prothèse",
+    "remboursement": "100%",
+    "references_composees": [
+      "PI 28 SS 14A"
+    ]
+  },
+  {
+    "reference": "CMB",
+    "nom": "Ceinture maintien lombaire Lombostat",
+    "categorie": "Ceintures de maintien",
+    "description": "Tissu non extensible coutil baleiné",
+    "indications": [
+      "Lumbago",
+      "Lombo-sciatalgies",
+      "Arthrose lombaire"
+    ],
+    "type": "Ceinture",
+    "remboursement": "100%",
+    "references_composees": [
+      "CMB"
+    ]
+  },
+  {
+    "reference": "CMA",
+    "nom": "Ceinture maintien abdominal",
+    "categorie": "Ceintures de maintien",
+    "description": "Baleines souples abdominales",
+    "indications": [
+      "Hernie ligne blanche",
+      "Éventration",
+      "Ptose abdominale"
+    ],
+    "type": "Ceinture",
+    "remboursement": "100%",
+    "references_composees": [
+      "CMA"
+    ]
+  },
+  {
+    "reference": "CMAB D12",
+    "nom": "Ceinture abdomino-lombaire D12",
+    "categorie": "Ceintures de maintien",
+    "description": "CMB + CMA combinés",
+    "indications": [
+      "Douleurs lombaires + pathologie abdominale"
+    ],
+    "type": "Ceinture",
+    "remboursement": "100%",
+    "references_composees": [
+      "CMAB D12"
+    ]
+  },
+  {
+    "reference": "CMAB D09",
+    "nom": "Ceinture abdomino-lombaire D09",
+    "categorie": "Ceintures de maintien",
+    "description": "CMB + CMA hauteur D09",
+    "indications": [
+      "Douleurs dorso-lombaires + abdomen"
+    ],
+    "type": "Ceinture",
+    "remboursement": "100%",
+    "references_composees": [
+      "CMAB D09"
+    ]
+  }
+]

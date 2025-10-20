@@ -1,0 +1,15 @@
+{
+  "name": "calculateur-guide",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "analyze": "tsx scripts/analyzePdfData.ts",
+    "enhance": "tsx scripts/enhanceDatabase.ts",
+    "extract-pdf": "tsx scripts/extractPdfText.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.20.6",
+    "pdf-parse": "^1.1.1"
+  }
+}

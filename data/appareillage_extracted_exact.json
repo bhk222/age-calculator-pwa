@@ -1,0 +1,82 @@
+[
+  {
+    "reference": "SO 01",
+    "nom": "Semelle orthopédique (pointure inférieure à 36)",
+    "categorie": "Podo-orthèses",
+    "type": "Semelle sur mesure",
+    "remboursement": "100%",
+    "description": "Les semelles orthopédiques sont des dispositifs médicaux fabriqués sur mesure par un podologue ou un podo-orthésiste. Elles soulagent les douleurs causées par des déformations du pied grâce à une correction spécifique à chaque individu. Une semelle est constituée de 04 couches : Plaque de synderme, Liège naturel, Mousse, Basane.",
+    "indications": [
+      "Pieds plats chez l'enfant à partir de 3 ans jusqu'à la fin de l'adolescence (60% des cas guérissent spontanément)",
+      "Pieds plats isolés",
+      "Pieds plats varus",
+      "Pieds plats valgus",
+      "Pieds plats avec valgus de l'arrière-pied (valgus calcanéen) : Semelle avec voûte plantaire et coin supinateur postéro-interne (CSPI)",
+      "Pieds plats avec varus de l'arrière-pied (varus calcanéen) : Semelle avec coin pronateur postérieur (CPP)",
+      "Pieds plats avec valgus de l'avant-pied : Semelle avec voûte plantaire et coin supinateur antéro-externe (CSAE)",
+      "Metatarsus varus de l'avant-pied : Semelle avec coin pronateur antéro-interne (CPAI)",
+      "Épiphysite plantaire (épine calcanéenne) chez l'adulte",
+      "Métatarsalgies chez l'adulte",
+      "Hyperkératose : durillons, cors",
+      "Tendinite achilléenne",
+      "Inégalité d'un membre inférieur ne dépassant pas 02 cm",
+      "Pied diabétique",
+      "Polyarthrite rhumatoïde",
+      "Pieds plats chez l'adulte",
+      "Pieds creux décompensés chez l'adulte (pieds creux neurologiques)"
+    ],
+    "criteres_conformite": [
+      "Vérifier la présence des différents éléments de correction sur la semelle selon les déformations du pied",
+      "Vérifier la présence des 4 couches : Plaque de synderme, Liège naturel, Mousse, Basane",
+      "Contrôler l'adaptation de la semelle au pied",
+      "Vérifier que la semelle est amovible et destinée à être placée dans une chaussure",
+      "Prévoir une demi-pointure en plus pour bien loger la semelle orthopédique",
+      "En cas de problème unilatéral, prévoir une paire complète (côté correcteur + côté compensateur)",
+      "Limite de renouvellement : 1 paire tous les 5 mois pour enfants < 16 ans, 1 paire tous les 8-12 mois pour adultes"
+    ],
+    "references_composees": [
+      "SO 01",
+      "SO01"
+    ]
+  },
+  {
+    "reference": "SO 02",
+    "nom": "Semelle orthopédique (pointure supérieure ou égale à 36)",
+    "categorie": "Podo-orthèses",
+    "type": "Semelle sur mesure",
+    "remboursement": "100%",
+    "description": "Les semelles orthopédiques sont des dispositifs médicaux fabriqués sur mesure par un podologue ou un podo-orthésiste. Elles soulagent les douleurs causées par des déformations du pied grâce à une correction spécifique à chaque individu. Une semelle est constituée de 04 couches : Plaque de synderme, Liège naturel, Mousse, Basane.",
+    "indications": [
+      "Pieds plats chez l'enfant à partir de 3 ans jusqu'à la fin de l'adolescence (60% des cas guérissent spontanément)",
+      "Pieds plats isolés",
+      "Pieds plats varus",
+      "Pieds plats valgus",
+      "Pieds plats avec valgus de l'arrière-pied (valgus calcanéen) : Semelle avec voûte plantaire et coin supinateur postéro-interne (CSPI)",
+      "Pieds plats avec varus de l'arrière-pied (varus calcanéen) : Semelle avec coin pronateur postérieur (CPP)",
+      "Pieds plats avec valgus de l'avant-pied : Semelle avec voûte plantaire et coin supinateur antéro-externe (CSAE)",
+      "Metatarsus varus de l'avant-pied : Semelle avec coin pronateur antéro-interne (CPAI)",
+      "Épiphysite plantaire (épine calcanéenne) chez l'adulte",
+      "Métatarsalgies chez l'adulte",
+      "Hyperkératose : durillons, cors",
+      "Tendinite achilléenne",
+      "Inégalité d'un membre inférieur ne dépassant pas 02 cm",
+      "Pied diabétique",
+      "Polyarthrite rhumatoïde",
+      "Pieds plats chez l'adulte",
+      "Pieds creux décompensés chez l'adulte (pieds creux neurologiques)"
+    ],
+    "criteres_conformite": [
+      "Vérifier la présence des différents éléments de correction sur la semelle selon les déformations du pied",
+      "Vérifier la présence des 4 couches : Plaque de synderme, Liège naturel, Mousse, Basane",
+      "Contrôler l'adaptation de la semelle au pied",
+      "Vérifier que la semelle est amovible et destinée à être placée dans une chaussure",
+      "Prévoir une demi-pointure en plus pour bien loger la semelle orthopédique",
+      "En cas de problème unilatéral, prévoir une paire complète (côté correcteur + côté compensateur)",
+      "Limite de renouvellement : 1 paire tous les 5 mois pour enfants < 16 ans, 1 paire tous les 8-12 mois pour adultes"
+    ],
+    "references_composees": [
+      "SO 02",
+      "SO02"
+    ]
+  }
+]
