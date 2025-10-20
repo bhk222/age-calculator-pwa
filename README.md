@@ -348,3 +348,7 @@ Ce projet est destiné à un usage médical professionnel pour la CNAS (Caisse N
 **Développé avec ❤️ pour les Médecins Conseils CNAS**
 
 *Dernière mise à jour : 17 Octobre 2025*
+
+  
+  
+ 
