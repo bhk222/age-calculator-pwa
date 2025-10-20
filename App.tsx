@@ -23,7 +23,7 @@ const tabTitles: { [key: string]: string } = {
 };
 
 export const App: React.FC = () => {
-    const [isAuthenticated, setIsAuthenticated] = useState(false); // Premier design avec authentification
+    const [isAuthenticated, setIsAuthenticated] = useState(true); // Authentification désactivée pour test
     const [activeTab, setActiveTab] = useState('calculator');
     const [selectedInjuries, setSelectedInjuries] = useState<SelectedInjury[]>([]);
     const [totalRate, setTotalRate] = useState(0);
